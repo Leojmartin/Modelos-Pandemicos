@@ -3,6 +3,7 @@ El siguiente repositorio contiene una serie de códigos escritos en Octave que r
 
 El documento epidemias.m es el principal. Allí podrá encontrar la explicación de cada uno de los métodos SIR, SEIR y MSIR y podrá elegir entre resolver las ecuaciones diferenciales utilizando Runge Kutta 4 o Predictor-Correcto, indiferentemente del método numérico a utilizar se generarán los gráficos respectivos de los datos utilizados.
 
+
 Trabajos Futuros:
 
 La optimización de los códigos y de las funciones. 
