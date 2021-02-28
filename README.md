@@ -5,5 +5,4 @@ El documento epidemias.m es el principal. Allí podrá encontrar la explicación
 
 
 Trabajos Futuros:
-
 La optimización de los códigos y de las funciones. 
